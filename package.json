@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JaeHong94/coffe_site/issues"
   },
-  "homepage": "https://github.com/JaeHong94/coffe_site#readme"
+  "homepage": "https://github.com/JaeHong94/coffe_site#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
